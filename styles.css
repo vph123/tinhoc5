@@ -10,7 +10,7 @@ color: white !important;
 div a{text-decoration: none;}
 div a:hover{color:red;}
 .slogan{
-background-color:pink;
+background-color:pink !important;
 text-align: center !important;
 width: 100%;
 padding-right: 0.5rem;
@@ -48,7 +48,7 @@ flex: 0 0 auto;
 width: 50%;	
 }
 .footer{
-background-color:#333;
+background-color:#333 !important;
 text-align: center !important; 
 color: lightblue;
 width: 100%;
