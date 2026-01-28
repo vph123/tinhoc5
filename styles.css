@@ -10,7 +10,7 @@ color: white !important;
 div a{text-decoration: none;}
 div a:hover{color:red;}
 .slogan{
-background-color: rgb(248,249,250) !important;
+background-color: rgb(248,249,250);
 text-align: center !important;
 width: 100%;
 padding-right: 0.5rem;
@@ -32,7 +32,7 @@ width: 33.33333333%;
 color:red;}
 .block_3 a {
 text-decoration: none;
-color: white;
+color: blue;
 }
 .content{
 background-color: white !important;
